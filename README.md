@@ -22,5 +22,6 @@ kdb+/q extension for vscode
 
 A zero dependency javascript Node.js package to interface with kdb+/q (v2.6+).
 
+[![](https://img.shields.io/npm/v/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
 [![](https://img.shields.io/npm/dt/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
 [![](https://img.shields.io/npm/dm/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
