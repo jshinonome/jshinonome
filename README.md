@@ -1,27 +1,29 @@
 # Jo Shinonome
 
-## Projects
+Work as a data engineer and quant developer. Interested in solving low latency, improving performance and design user friendly APIs. I enjoy greatly using `Rust`.
 
-### vscode-k-pro
+I currently focus on building vscode plugin and implementing features for `jasmine`.
 
-kdb+/q & k9 professional extension for vscode
+## Open Source Projects
 
-[![](https://img.shields.io/visual-studio-marketplace/v/jshinonome.vscode-k-pro?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-k-pro)
-[![](https://img.shields.io/visual-studio-marketplace/i/jshinonome.vscode-k-pro?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-k-pro)
-[![](https://img.shields.io/visual-studio-marketplace/d/jshinonome.vscode-k-pro?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-k-pro)
+- [vscode-q](https://github.com/jshinonome/vscode-q), a vscode extension for `kdb+/q`. However, it is in maintenance mode. The q code parser is not open sourced.
+- [geek](https://github.com/jshinonome/geek), a go interface to `kdb+/q`
+- [kola](https://github.com/jshinonome/kola), a rust/python interface to `kdb+/q`
+- [jkdb](https://github.com/jshinonome/jkdb), a modern javascript interface to `kdb+/q`
+- [kuki](https://github.com/jshinonome/kuki), a kdb+/q package manager
 
-### vscode-q
+## Other Projects(not open sourced)
 
-kdb+/q extension for vscode
+- vscode-jasmine, a vscode extension for `jasmine`
+- vscode-q-pro, a vscode extension for `kdb+/q` with professional features
+- qrs, a rust FFI bindings to kdb+/q
 
-[![](https://img.shields.io/visual-studio-marketplace/v/jshinonome.vscode-q?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-q)
-[![](https://img.shields.io/visual-studio-marketplace/i/jshinonome.vscode-q?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-q)
-[![](https://img.shields.io/visual-studio-marketplace/d/jshinonome.vscode-q?labelColor=4a148c&color=9c27b0&style=flat)](https://marketplace.visualstudio.com/items?itemName=jshinonome.vscode-q)
+## Programming Languages
 
-### jkdb
-
-A zero dependency javascript Node.js package to interface with kdb+/q (v2.6+).
-
-[![](https://img.shields.io/npm/v/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
-[![](https://img.shields.io/npm/dt/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
-[![](https://img.shields.io/npm/dm/jkdb?labelColor=4a148c&color=9c27b0&style=flat)](https://www.npmjs.com/package/jkdb)
+- ★★★★★ - `Rust`
+- ★★★★★ - `Jasmine`
+- ★★★★★ - `kdb+/q`
+- ★★★★★ - `Typescript`
+- ★★★★☆ - `Javascript`
+- ★★★★☆ - `Python`
+- ★★☆☆☆ - `Go`
