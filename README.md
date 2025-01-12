@@ -24,12 +24,12 @@ I currently focus on building VSCode plugins and implementing features for `jasm
 
 ## Programming Languages
 
-| Language   | Level      |
-| ---------- | ---------- |
-| Rust       | ⭐⭐⭐⭐⭐ |
-| jasmine    | ⭐⭐⭐⭐⭐ |
-| q          | ⭐⭐⭐⭐⭐ |
-| TypeScript | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐   |
-| Python     | ⭐⭐⭐⭐   |
-| Go         | ⭐⭐       |
+| Language   | Level |
+| ---------- | ----- |
+| Rust       | █████ |
+| jasmine    | █████ |
+| q          | █████ |
+| TypeScript | █████ |
+| JavaScript | ████░ |
+| Python     | ████░ |
+| Go         | ██░░░ |
