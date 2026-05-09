@@ -1,10 +1,9 @@
 # Jo Shinonome
 
-I work as a data engineer and quant developer.
+Senior kdb+/Quant Developer with 10+ years of experience building high-performance data platforms and quantitative systems across leading financial institutions in Hong Kong, Singapore, and Tokyo. Specialized in designing kdb+ architectures for real-time and historical market data, algorithmic trading analytics, and transaction cost analysis — consistently delivering order-of-magnitude performance improvements over legacy systems.
 
-I'm interested in solving low-latency problems, improving performance, and designing user-friendly APIs.
-
-I greatly enjoy using `Rust`.
+- Proficient in q, Rust, TypeScript, and Python, with a strong systems-engineering mindset spanning full-stack development, cloud infrastructure, and microservice design.
+- Active open-source contributor and tooling author
 
 ## Open Source Projects
 
