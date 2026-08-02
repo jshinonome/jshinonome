@@ -15,23 +15,23 @@ Senior kdb+/Quant Developer with 10+ years of experience building high-performan
 
 ## Archived Projects
 
-- [vscode-q](https://github.com/jshinonome/vscode-q), a VSCode extension for `q`
 - [geek](https://github.com/jshinonome/geek), a `Go` interface to `q`
 
 ## Other Projects
 
-- vscode-q-pro, a VSCode extension for `q` with professional features
+- [vscode-q](https://github.com/jshinonome/vscode-q), a free closed-source VSCode extension for `q`
+- [q-lang-server](https://pypi.org/project/q-lang-server/), a free closed-source `q` language server in `Rust`
 - qrs, a Rust FFI binding to `q`, easy to develop `q` functions in `Rust`
 
 ## Programming Languages
 
-| Language   | Level |
-| ---------- | ----- |
-| Rust       | █████ |
-| chili      | █████ |
-| pepper     | █████ |
-| q          | █████ |
-| TypeScript | █████ |
-| JavaScript | ████░ |
-| Python     | ████░ |
-| Go         | ██░░░ |
+| Language   | Level        |
+| ---------- | ------------ |
+| Rust       | Expert       |
+| chili      | Expert       |
+| pepper     | Expert       |
+| q          | Expert       |
+| TypeScript | Expert       |
+| JavaScript | Advanced     |
+| Python     | Advanced     |
+| Go         | Intermediate |
